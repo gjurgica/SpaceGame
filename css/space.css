@@ -1,0 +1,53 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-image: url("../images/space.jpg");
+    font-family: 'Nova Flat', cursive;
+}
+img{
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+    color: white;
+}
+.first p{
+    color: white;
+    margin: 10px;
+}
+.first .card-title{
+    color: white;
+}
+a{
+    font-weight: bolder;
+}
+.ship p,h2{
+    color: rgb(45, 45, 46);
+    font-weight: bold;
+}
+
+.ship{
+    margin: 10px;
+    background-image: url("../images/card.jpeg");
+    box-shadow: 2px 5px;
+    cursor: pointer;
+}
+.planet{
+    background-image: url("../images/card2.jpeg");
+    cursor: pointer;
+}
+.second{
+    background-color: rgb(162, 167, 182);
+}
+.third{
+    background-color: rgb(80, 151, 245);
+}
+#main{
+    margin: 10px;
+}
+.hiden{
+    background-color: rgb(3, 12, 94);
+    margin: 20px;
+    padding: 20px;
+    color: white;
+}
+
